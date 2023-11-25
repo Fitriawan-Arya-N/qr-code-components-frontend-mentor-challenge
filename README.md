@@ -1,3 +1,5 @@
+demo: https://qr-code-components-frontend-mentor-challenge.vercel.app/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
